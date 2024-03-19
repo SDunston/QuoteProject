@@ -44,3 +44,6 @@ ul i{
 .wrapper .content{
     margin: 35px 0;
 }
+.content .quote-area{
+    display: flex;
+}
