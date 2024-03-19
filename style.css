@@ -44,6 +44,18 @@ ul i{
 .wrapper .content{
     margin: 35px 0;
 }
-.content .quote-area{
+.quotecustom{
     display: flex;
+    justify-content: center;
+}
+.quotecustom i{
+    font-size: 15px;
+}
+.quotecustom i:first-child{
+
+}
+.content .quotecustom{
+    font-size: 22px;
+    text-align: center;
+    word-break: break-all;
 }
